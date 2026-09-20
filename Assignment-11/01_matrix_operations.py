@@ -1,8 +1,8 @@
-Q1 — Two 3×3 matrices, inverse, determinant, and A A ^ - 1
+#Q1 — Two 3×3 matrices, inverse, determinant, and A A ^ (-1)
 import numpy as np
 from scipy import linalg
 
-# Define two 3x3 matrices
+
 A = np.array([
     [1, 2, 3],
     [0, 1, 4],
