@@ -1,4 +1,4 @@
-Q4 — 4×4 matrix: transpose and rank using SciPy
+#Q4 — 4×4 matrix: transpose and rank using SciPy
 import numpy as np
 from scipy import linalg
 
