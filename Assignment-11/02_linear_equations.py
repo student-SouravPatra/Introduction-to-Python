@@ -1,4 +1,4 @@
-Q2 — Solve the linear equations using SciPy
+#Q2 — Solve the linear equations using SciPy
 import numpy as np
 from scipy import linalg
 
