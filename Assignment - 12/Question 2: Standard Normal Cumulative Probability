@@ -1,0 +1,21 @@
+# Question 2: Standard Normal Cumulative Probability
+#
+# Calculate the probability that a standard normal variable
+# is less than 1.5 using SciPy.
+
+from scipy import stats
+
+
+# Given value
+z = 1.5
+
+
+# Calculate cumulative probability
+probability = stats.norm.cdf(z)
+
+
+# Display result
+print("===== Standard Normal Cumulative Probability =====")
+print("Z value:", z)
+print("P(Z < 1.5):", probability)
+print("Probability (%):", probability * 100)
