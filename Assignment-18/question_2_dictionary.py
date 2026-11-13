@@ -1,5 +1,4 @@
 # Question 2: Perform operations using Python dictionaries
-
 # Dictionary containing student names and their subject-wise marks
 students = {
     "Alice": {
